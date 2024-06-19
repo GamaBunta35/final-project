@@ -1,20 +1,22 @@
-# mobile_final
+Apartment Finder App
 
-Rental Apartments Finder
+## Overview
+Welcome to the Apartment Finder App! This simple yet powerful application is designed to assist students in their search for rental apartments, making the relocation process smoother and more efficient. The app allows users to view available apartments, complete with detailed information and locations displayed on a map.
 
-## Install flutter
+## Features
+- **User-Friendly Interface**: A clean and intuitive design that is easy to navigate.
+- **Apartment Listings**: Browse through a list of available apartments with detailed descriptions and photos.
+- **Map Integration**: View apartment locations on an interactive map for easy reference.
+- **Search Functionality**: Filter apartments based on criteria such as price, location, and amenities.
+- **Favorites**: Save favorite apartments for quick access later.
+- **Contact Landlords**: Directly connect with landlords for inquiries and arrangements.
 
-This project is a starting point for a Flutter application.
-- Install flutter in here: https://storage.googleapis.com/flutter_infra_release/releases/stable/windows/flutter_windows_2.5.3-stable.zip
-- Extract file in foler: C:\Users\<your-user-name>\Documents
-- Open cmd and run: flutter doctor
-- flutter doctor --android-licenses
-## Open project
-- Extract file zip and open RentalZ-main is flutter project
-- Open cmd and run: flutter pub get
-- Run project with comman: flutter run
+Usage
+1. Browse Listings: View available apartments on the home screen.
+2. **Search**: Use the search bar and filters to find apartments that match your criteria.
+3. **View Details**: Click on an apartment listing to see more information, including photos and a detailed description.
+4. **Map View**: Switch to the map view to see the apartment locations.
+5. **Favorites**: Save apartments to your favorites list by clicking the heart icon.
+6. **Contact**: Use the contact form to send a message directly to the landlord.
 
-## Install Native app
-- Install Android studio is here: https://redirector.gvt1.com/edgedl/android/studio/install/2020.3.1.25/android-studio-2020.3.1.25-windows.exe
-- Extract folder mobile-java-main and open with Android studio
-- Click button run in android studio
+Thank you for using the Apartment Finder App! Happy apartment hunting!
